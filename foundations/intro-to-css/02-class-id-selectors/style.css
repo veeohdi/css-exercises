@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.para {
+    background-color:#ffb6c1;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#first {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second {
+    background-color:hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.para#special {
+    font-size: 24px;
+}
