@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.global {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', with sans-serif;
+}
+
+.first {
+    background-color: rgb(0, 0, 0);
+    color: rgb(187, 177, 177);
+}
+
+.second {
+    background-color: rgb(240, 240, 9);
+}
